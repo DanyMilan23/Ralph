@@ -1,0 +1,10 @@
+1000,ali
+900,gra
+850,dan
+800,san
+700,joe
+600,nat
+500,xjm
+400,edp
+300,adr
+200,chu

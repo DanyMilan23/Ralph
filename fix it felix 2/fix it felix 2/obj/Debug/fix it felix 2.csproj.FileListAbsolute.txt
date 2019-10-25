@@ -1,0 +1,104 @@
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.exe.config
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.exe
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.pdb
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.Form1.resources
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.Form2.resources
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.nivel_2.resources
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.nivel_1.resources
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.nivel_3.resources
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.Properties.Resources.resources
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csproj.GenerateResource.Cache
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.exe
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.pdb
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csprojResolveAssemblyReference.cache
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.menu.resources
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.instruciones.resources
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csproj.ResolveComReference.cache
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.gameover.resources
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.puntua.resources
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.youwin.resources
+C:\Users\erick\Documents\Visual Studio 2015\Projects\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.creditos.resources
+H:\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.exe.config
+H:\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.exe
+H:\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.pdb
+H:\fix it felix 2\fix it felix 2\bin\Debug\Interop.WMPLib.dll
+H:\fix it felix 2\fix it felix 2\bin\Debug\AxInterop.WMPLib.dll
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csprojAssemblyReference.cache
+H:\fix it felix 2\fix it felix 2\obj\Debug\Interop.WMPLib.dll
+H:\fix it felix 2\fix it felix 2\obj\Debug\AxInterop.WMPLib.dll
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csproj.ResolveComReference.cache
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.creditos.resources
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.Form1.resources
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.Form2.resources
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.nivel_2.resources
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.gameover.resources
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.instruciones.resources
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.menu.resources
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.nivel_1.resources
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.nivel_3.resources
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.Properties.Resources.resources
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.puntua.resources
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.youwin.resources
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csproj.GenerateResource.cache
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csproj.CoreCompileInputs.cache
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.exe
+H:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.pdb
+C:\Users\CC1\Desktop\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.exe.config
+C:\Users\CC1\Desktop\fix it felix 2\fix it felix 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\CC1\Desktop\fix it felix 2\fix it felix 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\CC1\Desktop\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csproj.ResolveComReference.cache
+C:\Users\CC1\Desktop\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.exe
+C:\Users\CC1\Desktop\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.pdb
+G:\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.exe.config
+G:\fix it felix 2\fix it felix 2\obj\Debug\Interop.WMPLib.dll
+G:\fix it felix 2\fix it felix 2\obj\Debug\AxInterop.WMPLib.dll
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csproj.ResolveComReference.cache
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.exe
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.pdb
+G:\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.exe
+G:\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.pdb
+G:\fix it felix 2\fix it felix 2\bin\Debug\Interop.WMPLib.dll
+G:\fix it felix 2\fix it felix 2\bin\Debug\AxInterop.WMPLib.dll
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csprojResolveAssemblyReference.cache
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.creditos.resources
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.Form1.resources
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.Form2.resources
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.nivel_2.resources
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.gameover.resources
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.instruciones.resources
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.menu.resources
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.nivel_1.resources
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.nivel_3.resources
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.Properties.Resources.resources
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.puntua.resources
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.youwin.resources
+G:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csproj.GenerateResource.Cache
+E:\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.exe.config
+E:\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.exe
+E:\fix it felix 2\fix it felix 2\bin\Debug\fix it felix 2.pdb
+E:\fix it felix 2\fix it felix 2\bin\Debug\Interop.WMPLib.dll
+E:\fix it felix 2\fix it felix 2\bin\Debug\AxInterop.WMPLib.dll
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csprojAssemblyReference.cache
+E:\fix it felix 2\fix it felix 2\obj\Debug\Interop.WMPLib.dll
+E:\fix it felix 2\fix it felix 2\obj\Debug\AxInterop.WMPLib.dll
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csproj.ResolveComReference.cache
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.creditos.resources
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.Form1.resources
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.Form2.resources
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.nivel_2.resources
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.gameover.resources
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.instruciones.resources
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.menu.resources
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.nivel_1.resources
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.nivel_3.resources
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.Properties.Resources.resources
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.puntua.resources
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix_it_felix_2.youwin.resources
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csproj.GenerateResource.cache
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.csproj.CoreCompileInputs.cache
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.exe
+E:\fix it felix 2\fix it felix 2\obj\Debug\fix it felix 2.pdb
